@@ -22,11 +22,10 @@
 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 - [Contributors](#contributors)
-- [Tests](#tests)
 - [Questions](#questions)
+
+![Main](./Assets/images/main.PNG)
 
 ## Installation
 
