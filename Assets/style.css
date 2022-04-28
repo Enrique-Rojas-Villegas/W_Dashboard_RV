@@ -10,3 +10,18 @@
     color: white;
     background: linear-gradient(135deg, var(--primary), var(--secondary));
   }
+
+  .my-colleft {
+    padding-top: 10px;
+  }
+  
+  .my-colright {
+    border: solid;
+    margin-top: 10px;
+    padding-top: 5px;
+  }
+  
+  .mysearchbtn,
+  .mycardsright {
+    margin-top: 10px;
+  }
