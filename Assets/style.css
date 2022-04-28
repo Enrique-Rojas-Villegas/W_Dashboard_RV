@@ -25,3 +25,14 @@
   .mycardsright {
     margin-top: 10px;
   }
+
+  .mycardsright {
+    display: inline-block;
+    padding-right: 36px;
+    height: 80%;
+  }
+  
+  .titles {
+    padding-top: 17px;
+  }
+  
